@@ -46,4 +46,3 @@ You are free to use, modify, and share this template under an open license.
 ## 🙏 Author Notes
 
 This project was created to support more conscious and thoughtful interactions with AI. Whether you’re an educator, developer, or just curious user, we hope this template brings you greater confidence when working with ChatGPT.
-
